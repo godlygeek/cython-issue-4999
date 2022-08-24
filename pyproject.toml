@@ -1,0 +1,3 @@
+[build-system]
+requires = ["cython>=0.29.32", "setuptools>=64.0.0"]
+build-backend = "setuptools.build_meta"

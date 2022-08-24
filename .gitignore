@@ -1,0 +1,6 @@
+venv
+*.c
+*.so
+*.egg-info
+.coverage
+build
